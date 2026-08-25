@@ -41,6 +41,3 @@ mv kubectl /usr/local/bin/kubectl
 
 eksctl version
 kubectl version --client
-
-git clone https://github.com/ahmetb/kubectx /opt/kubectx
-ln -s /opt/kubectx/kubens /usr/local/bin/kubens
